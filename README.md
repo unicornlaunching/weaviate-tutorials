@@ -1,6 +1,6 @@
 # So you wanna learn how to create stuff with AI.
 
-###Who doesn't. It's funny. Everyone's afraid of AI...until they learn how to use it. Then you can't get them to stop talking about it.
+### Who doesn't. It's funny. Everyone's afraid of AI...until they learn how to use it. Then you can't get them to stop talking about it.
 
 Anyhoo, if you wanna learn how to create some of this AI shit, then you've come to the right place...because I'm an idiot.
 
